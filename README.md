@@ -1,6 +1,6 @@
-# ER Generator
+# ERD Generator
 
-ER Generator is a tool to visualize database schemas as Entity-Relationship Diagrams (ERDs). It uses `tbls` to extract database schema information and `@liam-hq/cli` to generate visual ERDs.
+ERD Generator is a tool to visualize database schemas as Entity-Relationship Diagrams (ERDs). It uses `tbls` to extract database schema information and `@liam-hq/cli` to generate visual ERDs.
 
 ## Prerequisites
 
