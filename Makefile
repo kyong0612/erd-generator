@@ -14,10 +14,10 @@ generate.tbls.schema:
 
 .PHONY: generate.erd
 generate.erd:
-	@npx @liam-hq/cli erd build --format tbls --input dbdoc/schema.json
+	@npx -y @liam-hq/cli erd build --format tbls --input dbdoc/schema.json
 
 .PHONY: serve
 serve:
 	@echo "Starting ERD server..."
-	@npx http-server dist
+	@npx -y http-server dist
 	
