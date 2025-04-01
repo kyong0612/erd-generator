@@ -1,3 +1,6 @@
+.PHONY: all
+all: generate serve
+
 .PHONY: init
 init:
 	@echo "create tbls config file..."
