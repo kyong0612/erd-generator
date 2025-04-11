@@ -1,6 +1,6 @@
 module er-generator
 
-go 1.24.0
+go 1.24.2
 
 tool github.com/k1LoW/tbls
 
@@ -57,7 +57,7 @@ require (
 	github.com/dvsekhvalnov/jose2go v1.8.0 // indirect
 	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
-	github.com/expr-lang/expr v1.16.9 // indirect
+	github.com/expr-lang/expr v1.17.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/flopp/go-findfont v0.1.0 // indirect
 	github.com/fogleman/gg v1.3.0 // indirect
@@ -72,8 +72,8 @@ require (
 	github.com/goccy/go-json v0.10.4 // indirect
 	github.com/goccy/go-yaml v1.15.23 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
-	github.com/golang-jwt/jwt/v4 v4.5.1 // indirect
-	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
+	github.com/golang-jwt/jwt/v4 v4.5.2 // indirect
+	github.com/golang-jwt/jwt/v5 v5.2.2 // indirect
 	github.com/golang-sql/civil v0.0.0-20220223132316-b832511892a9 // indirect
 	github.com/golang-sql/sqlexp v0.1.0 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
@@ -97,7 +97,7 @@ require (
 	github.com/k1LoW/fontdir v0.1.1 // indirect
 	github.com/k1LoW/ghfs v1.4.0 // indirect
 	github.com/k1LoW/go-github-client/v67 v67.0.13 // indirect
-	github.com/k1LoW/tbls v1.82.0 // indirect
+	github.com/k1LoW/tbls v1.84.1 // indirect
 	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
@@ -146,11 +146,11 @@ require (
 	go.opentelemetry.io/otel/sdk v1.34.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.32.0 // indirect
 	go.opentelemetry.io/otel/trace v1.34.0 // indirect
-	golang.org/x/crypto v0.33.0 // indirect
+	golang.org/x/crypto v0.35.0 // indirect
 	golang.org/x/exp v0.0.0-20241217172543-b2144cdd0a67 // indirect
 	golang.org/x/image v0.24.0 // indirect
 	golang.org/x/mod v0.23.0 // indirect
-	golang.org/x/net v0.35.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
 	golang.org/x/oauth2 v0.26.0 // indirect
 	golang.org/x/sync v0.11.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
