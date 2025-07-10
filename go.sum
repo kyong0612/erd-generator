@@ -740,6 +740,7 @@ github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5P
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
 github.com/cli/go-gh/v2 v2.12.0 h1:PIurZ13fXbWDbr2//6ws4g4zDbryO+iDuTpiHgiV+6k=
 github.com/cli/go-gh/v2 v2.12.0/go.mod h1:+5aXmEOJsH9fc9mBHfincDwnS02j2AIA/DsTH0Bk5uw=
+github.com/cli/go-gh/v2 v2.12.1/go.mod h1:+5aXmEOJsH9fc9mBHfincDwnS02j2AIA/DsTH0Bk5uw=
 github.com/cli/safeexec v1.0.1 h1:e/C79PbXF4yYTN/wauC4tviMxEV13BwljGj0N9j+N00=
 github.com/cli/safeexec v1.0.1/go.mod h1:Z/D4tTN8Vs5gXYHDCbaM1S/anmEDnJb1iW0+EJ5zx3Q=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
@@ -1023,6 +1024,7 @@ github.com/k1LoW/go-github-client/v67 v67.0.17 h1:sZfwnhVL19X3YQek6lqV9sB2DDMYHV
 github.com/k1LoW/go-github-client/v67 v67.0.17/go.mod h1:+W9kQmf/4pX1NEB/E4p2rsT56cgijV+GpsbRNR0llfI=
 github.com/k1LoW/tbls v1.85.4 h1:y7AUzDDJ1JmCLyk/PiAEqWa+vyG7XhGfLfT5giI2mVQ=
 github.com/k1LoW/tbls v1.85.4/go.mod h1:cGqsYCu4CcramCRf2Kbm/oghzQPkPCpMq44B8hPGm5A=
+github.com/k1LoW/tbls v1.86.1/go.mod h1:yRPKUwZqBjualuV07eclIjH2PiD7NclGyuUnWuLFeB4=
 github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51/go.mod h1:CzGEWj7cYgsdH8dAjBGEr58BoE7ScuLd+fwFZ44+/x8=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
