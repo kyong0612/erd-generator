@@ -17,7 +17,7 @@ generate.tbls.schema:
 
 .PHONY: generate.erd
 generate.erd:
-	@npx -y @liam-hq/cli erd build --format tbls --input dbdoc/schema.json
+	@npx -y @liam-hq/cli@latest erd build --format tbls --input dbdoc/schema.json
 
 .PHONY: serve
 serve:
