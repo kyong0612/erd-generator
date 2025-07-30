@@ -1,0 +1,4 @@
+# Database connection configuration example
+# PostgreSQL connection URI
+# Format: postgres://username:password@hostname:port/database_name
+db_uri: postgres://username:password@hostname:5432/dbname

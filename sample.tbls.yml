@@ -1,2 +1,0 @@
-# DSN (Database Source Name) to connect database
-dsn: postgres://postgres:dbpass@localhost:5432/dbname
